@@ -307,7 +307,8 @@ data-aos="fade-bottom"
 
 </Navbar>
 </div>            <Container fluid>
-              <div className={styles.yangi}>
+  
+              <div className={styles.yangi} >
                 <h1 style={{ fontSize: "60px",fontWeight:'bold'}} data-aos="fade-up">
                   Yangiliklar
                 </h1>

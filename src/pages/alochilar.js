@@ -187,7 +187,7 @@ export default class Alochilar extends Component {
               </div>
             </Carousel>
 
-            <div style={{ width: "100%", backgroundColor: "white" }}>
+            <div style={{ width: "100%", backgroundColor: "#f5ca0a", marginTop:"-40px" }}>
               <br />
               <br />
               <br />
